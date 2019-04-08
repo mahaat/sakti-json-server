@@ -58704,7 +58704,7 @@
     ],
     "forms": []
   },
-  "banks": [
+  "bank": [
     {
       "id": 523531000990,
       "deskripsi": "ANGLOMAS INTERNATIONAL BANK"
@@ -58718,8 +58718,8 @@
       "deskripsi": "BANGKOK BANK PUBLIC CO. LTD"
     },
     {
-      "id": "52100000000000",
-      "deskripsi": "Bank Test"
+      "id": "12312321323",
+      "deskripsi": "Test"
     }
   ]
 }
